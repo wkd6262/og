@@ -1,1 +1,1 @@
-# og 그래프 연습
+Kims-Kitchen
